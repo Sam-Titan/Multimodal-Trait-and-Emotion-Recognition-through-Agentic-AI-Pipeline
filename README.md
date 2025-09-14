@@ -1,4 +1,4 @@
-# Multi-Modal-Conversation-AI-Pipeline
+# Multimodal-Trait-and-Emotion-Recognition-through-Agentic-AI-Pipeline
 📌 Overview
 
 This repository implements a modular, agentic AI pipeline for inferring Big Five personality traits and emotional states from multimodal interview-style data enriched with behavioral metadata (response time, body language, speech features). The system integrates three coordinated agents:
